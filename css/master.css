@@ -1,0 +1,55 @@
+.titre {
+  position: absolute;
+  left: 40px;
+  top: 10px
+}
+
+.vache {
+  position: absolute;
+  display: flex;
+  left: 120px;
+  top: 230px
+}
+
+.grenouille {
+  position: absolute;
+  display: flex;
+  max-width: 60em;
+  min-width: 20em;
+  left: 800px;
+  top: 500px;
+}
+
+.grenouillelivre {
+  position: absolute;
+  display: flex;
+  left: 440px;
+  top: 500px;
+
+}
+h1 {
+  position: absolute;
+  left: 5px;
+}
+
+h2 {
+  position: absolute;
+  left: 600px;
+  top: 200px
+}
+
+#section-01 {
+  position: absolute;
+  left: 600px;
+  right: 800px;
+  top: 300px;
+  min-width: 200px;
+}
+
+#section-02 {
+  position: absolute;
+  left: 1100px;
+  right: 400px;
+  top: 480px;
+  min-width: 200px;
+}
