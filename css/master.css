@@ -6,24 +6,27 @@
 
 .vache {
   position: absolute;
-  display: flex;
-  left: 120px;
-  top: 230px
+  float: right;
+  overflow: hidden;
+  left: 7%;
+  top: 230px;
+  display: block;
 }
 
 .grenouille {
-  position: absolute;
-  display: flex;
+  position: relative;
+  display: block;
   max-width: 60em;
   min-width: 20em;
-  left: 800px;
+  left: 42%;
   top: 500px;
+
 }
 
 .grenouillelivre {
   position: absolute;
-  display: flex;
-  left: 440px;
+  display: block;
+  left: 24%;
   top: 500px;
 
 }
